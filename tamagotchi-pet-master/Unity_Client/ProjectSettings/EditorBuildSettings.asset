@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Persistent.unity
+    guid: 7931b554e3785de4e9486f05cc7a64a1
+  - enabled: 1
+    path: Assets/Scenes/MainPageUI.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StudentLoginUI.unity
+    guid: a4005f7e173b0364d840ead8cfdad25e
+  - enabled: 1
+    path: Assets/Scenes/StudentWelcomeUI.unity
+    guid: afa717e7106f64540be3f16fd91a5e44
+  - enabled: 1
+    path: Assets/Scenes/TeacherLoginUI.unity
+    guid: fc531327f5f89004f9ff5782bf64e546
+  - enabled: 1
+    path: Assets/Scenes/TeacherWelcomeUI.unity
+    guid: 17d221ca791fd8f49ab96548fcaadd63
+  - enabled: 1
+    path: Assets/Scenes/CreateAccountScene.unity
+    guid: 827a893f50345f04289ebca74cdeecb1
+  - enabled: 1
+    path: Assets/Scenes/Question_Bank_Edit.unity
+    guid: 5dcdadbc3e98c1e44898644d38ebc263
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SingleMultiPlayerSelectionUI.unity
+    guid: da9a277e3184ef744a0348958d9076c4
+  - enabled: 1
+    path: Assets/Scenes/AddQuestion.unity
+    guid: d2b9d68fe26b5bd449a73a95a465ddbb
+  - enabled: 1
+    path: Assets/Scenes/ChangeSkinUI.unity
+    guid: 0672790dbb75e244f99b81c54af65a6d
+  - enabled: 1
+    path: Assets/Scenes/Question_Bank_Add.unity
+    guid: e6f35de90406eb14da2096c97613894c
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectionUI.unity
+    guid: 44eb26e7be391b0459c04ceead6142c1
+  - enabled: 1
+    path: Assets/Scenes/DesignMyGame-P1.unity
+    guid: f3350dd331698df45b84101001f48800
+  - enabled: 1
+    path: Assets/Scenes/DesignMyGame-P2.unity
+    guid: daa6f414c9c4d564f8befd008ba27b15
+  - enabled: 1
+    path: Assets/Scenes/GameHistoryUI.unity
+    guid: c7771e211e7724e4c9f106eb32e120a0
+  - enabled: 1
+    path: Assets/Scenes/Question_Bank_Section.unity
+    guid: f7e456d9aa3d8ee4ab4ed074dd7c0dd1
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardUI.unity
+    guid: 5392a2b6e59ad5d4eb53d0d4c08c223a
+  - enabled: 1
+    path: Assets/Scenes/ManageQuestions.unity
+    guid: f46f933dc97d59e4aa3f5245c3b2ec3e
+  - enabled: 1
+    path: Assets/Scenes/MultiPlayerGameCompletionUI.unity
+    guid: 0591b1d5ba918614abd7e59100f20732
+  - enabled: 1
+    path: Assets/Scenes/QuestionBank.unity
+    guid: 88648fddea23d8549a57b5256eacd4eb
+  - enabled: 1
+    path: Assets/Scenes/MultiPlayerGameUI.unity
+    guid: 73d4ae5b233d1b746929f9400ec1a320
+  - enabled: 1
+    path: Assets/Scenes/MyStatisticsUI.unity
+    guid: 1ac87a4d584320142a8114424e304cf3
+  - enabled: 1
+    path: Assets/Scenes/PostAssignment-P1.unity
+    guid: 4736807c95e771449acbfcc9138f46e4
+  - enabled: 1
+    path: Assets/Scenes/QuestionBankSection.unity
+    guid: b197c49dcbe85094e84fa62506684402
+  - enabled: 1
+    path: Assets/Scenes/PostAssignment-P2.unity
+    guid: 8baf2d0165401294db2523caaabbe409
+  - enabled: 1
+    path: Assets/Scenes/Question_Bank_Edit.unity
+    guid: 5dcdadbc3e98c1e44898644d38ebc263
+  - enabled: 1
+    path: Assets/Scenes/PostAssignment-P3.unity
+    guid: 858557c4c8844ff4c89c359431ad14b6
+  - enabled: 1
+    path: Assets/Scenes/QuestionBankWorldUI.unity
+    guid: 4505efcb5f141be4e9f08fc752751ccd
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayerGameCompletionUI.unity
+    guid: b2973d4f4081c17499f3b35ffaf32fec
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayerGameUI.unity
+    guid: 7de0a568088472547b30777756dfa5b4
+  - enabled: 1
+    path: Assets/Scenes/ViewDetailedStatisticsUI.unity
+    guid: b5580db82086bdd4db1788f64ac07e8b
+  - enabled: 1
+    path: Assets/Scenes/ViewStatsUI.unity
+    guid: e8e1f7491b247e84da9831ae419bb37c
+  - enabled: 1
+    path: Assets/Scenes/VirtualVillageUI.unity
+    guid: d2047e175a817a048994e12f40cc5741
+  - enabled: 1
+    path: Assets/Scenes/EditQuestion.unity
+    guid: 6d359b2b4973cf94d9276d9d214b7e7b
+  - enabled: 1
+    path: Assets/Scenes/WorldAndStageSelectionUI.unity
+    guid: 0345ddfb48f6f9549bf5d14b7cdc5e3a
+  - enabled: 0
+    path: 
+    guid: 544e45b5617c2384ca04164dd0363900
+  - enabled: 1
+    path: Assets/Scenes/EditQuestion.unity
+    guid: 6d359b2b4973cf94d9276d9d214b7e7b
+  - enabled: 1
+    path: Assets/Scenes/CustomGameInputUI.unity
+    guid: 10ce4f61bd6bcf2458f22ccc3caee4d1
+  m_configObjects: {}

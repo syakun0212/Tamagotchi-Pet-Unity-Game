@@ -1,0 +1,7 @@
+<dependencies>
+  <packages>
+    <package>com.android.support:support-v4:26.1.+</package>
+    <package>com.sglib.easymobile:easy-mobile-lite:LATEST</package>
+  </packages>
+  <files />
+</dependencies>
